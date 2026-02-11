@@ -25,7 +25,7 @@ AutoML Studio is a modular, professional-grade automated machine learning platfo
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/automl-studio.git
+git clone https://github.com/kumar0205/automl-studio.git
 cd automl-studio
 
 # Create and activate virtual environment
